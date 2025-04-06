@@ -1,2 +1,2 @@
 # Festure
-Festure: Mobil cihazlarda tek elle kullanım için özelleştirilebilir dokunma hareketleriyle kısayollar sunan açık kaynaklı Android uygulaması.
+Mobil cihazlarda tek elle kullanım için özelleştirilebilir dokunma hareketleriyle kısayollar sunan açık kaynaklı Android uygulaması.
