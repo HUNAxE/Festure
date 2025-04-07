@@ -8,9 +8,9 @@
 
 ## 🎯 Amaç / Purpose
 
-**GesturePilot**, kullanıcıların ekran üzerinde yaptıkları özel parmak hareketleriyle (örneğin harf veya şekil çizimi) uygulama başlatma, ayar değiştirme gibi işlemleri kolaylaştırmak için geliştirilmiştir.
+**Festure**, kullanıcıların ekran üzerinde yaptıkları özel parmak hareketleriyle (örneğin harf veya şekil çizimi) uygulama başlatma, ayar değiştirme gibi işlemleri kolaylaştırmak için geliştirilmiştir.
 
-**GesturePilot** aims to make smartphone usage more ergonomic and efficient by letting users assign custom gestures (such as drawing a letter or shape) to perform actions like launching apps or changing settings.
+**Festure** aims to make smartphone usage more ergonomic and efficient by letting users assign custom gestures (such as drawing a letter or shape) to perform actions like launching apps or changing settings.
 
 ---
 
@@ -52,7 +52,7 @@
 git clone https://github.com/kullaniciadiniz/festure.git
 cd festure
 # Open in Android Studio
-
+---
 
 ---
 
