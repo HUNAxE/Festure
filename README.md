@@ -68,83 +68,69 @@ Basit parmak hareketleri tanıma
 
 
 🛠️ 2. Sürüm: Özelleştirilebilir Parmak Hareketleri
+This roadmap outlines the planned development stages for the application, from initial setup to advanced features and refinements.
 
-Kendi parmak hareketlerini tanımlama
+🚀 **1. Sürüm: Temel Yapı**
 
-Uygulama kısayolları
+*   Establish a fundamental Android project structure.
+*   Implement a basic user interface (UI) using Jetpack Compose.
+*   Integrate rudimentary gesture recognition for simple interactions.
 
+🛠️ **2. Sürüm: Özelleştirilebilir Parmak Hareketleri**
 
-🧠 3. Sürüm: Makro Desteği
+*   Enable users to define and customize their own gesture patterns.
+*   Associate gestures with launching specific applications (app shortcuts).
 
-Birden fazla işlemi tek parmak hareketiyle başlatma
+🧠 **3. Sürüm: Makro Desteği**
 
+*   Introduce the ability to trigger a sequence of actions with a single gesture (macros).
 
-🔒 4. Sürüm: Gizlilik
+🔒 **4. Sürüm: Gizlilik**
 
-Ekranı gizleyebilme ve karartma
+*   Implement privacy-focused features such as screen concealment and dimming.
 
+🌟 **5. Sürüm: Son Rötuşlar**
 
-🌟 5. Sürüm: Son Rötuşlar
-
-Performans iyileştirmeleri
-
-Kullanıcı geri bildirimleri
-
-
+*   Optimize application performance for efficiency and responsiveness.
+*   Incorporate user feedback to refine and enhance the overall experience.
 
 ---
 
-📝 Katkı Sağlamak / Contributing
+## 📝 Katkı Sağlamak / Contributing
 
 Katkı sağlamak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Fork yapın
 
-
 2. Yeni bir branch oluşturun (git checkout -b feature-branch)
-
 
 3. Yapmak istediğiniz değişiklikleri gerçekleştirin
 
-
 4. Değişikliklerinizi commit edin (git commit -am 'Add new feature')
-
 
 5. Branch'ınızı GitHub'a gönderin (git push origin feature-branch)
 
-
 6. Pull request açın
-
-
 
 You can contribute by following these steps:
 
 1. Fork the repository
 
-
 2. Create a new branch (git checkout -b feature-branch)
-
 
 3. Make your changes
 
-
 4. Commit your changes (git commit -am 'Add new feature')
-
 
 5. Push your branch to GitHub (git push origin feature-branch)
 
-
 6. Open a pull request
-
-
-
 
 ---
 
-🔒 Lisans / License
+## 🔒 Lisans / License
 
 MIT Lisansı altında açık kaynak olarak lisanslanmıştır.
 Licensed under the MIT License.
 
 ---
-
